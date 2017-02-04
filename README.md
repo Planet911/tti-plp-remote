@@ -4,5 +4,5 @@ A minimal python3-tk script for controlling [AIM-TTi PL-P](http://www.aimtti.com
 
 
 <p align="center">
-  <img src="./tti-plp-remote.png" alt="[Screenshot here]" width="500"/>
+  <img src="./tti-remote.png" alt="[Screenshot here]" width="500"/>
 </p>
